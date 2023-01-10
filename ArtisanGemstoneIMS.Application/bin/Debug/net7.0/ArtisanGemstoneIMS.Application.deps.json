@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "ArtisanGemstoneIMS.Application/1.0.0": {
+        "dependencies": {
+          "ArtisanGemstoneIMS.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ArtisanGemstoneIMS.Application.dll": {}
+        }
+      },
+      "ArtisanGemstoneIMS.Domain/1.0.0": {
+        "runtime": {
+          "ArtisanGemstoneIMS.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ArtisanGemstoneIMS.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ArtisanGemstoneIMS.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

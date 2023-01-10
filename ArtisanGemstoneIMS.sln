@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtisanGemstoneIMS.Api", "ArtisanGemstoneIMS.Api\ArtisanGemstoneIMS.Api.csproj", "{0B6C42F2-0AE6-4135-BBCA-147C3D95AAA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtisanGemstoneIMS.Application", "ArtisanGemstoneIMS.Application\ArtisanGemstoneIMS.Application.csproj", "{9A138B4E-34EB-47B3-A907-C79352A0FD44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtisanGemstoneIMS.Contracts", "ArtisanGemstoneIMS.Contracts\ArtisanGemstoneIMS.Contracts.csproj", "{D2E0F2DC-ECF6-4405-8C9D-C7E61D20FAD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtisanGemstoneIMS.Domain", "ArtisanGemstoneIMS.Domain\ArtisanGemstoneIMS.Domain.csproj", "{B1E837E5-D250-4B58-8D56-7D4AC0463B93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArtisanGemstoneIMS.Infrastructure", "ArtisanGemstoneIMS.Infrastructure\ArtisanGemstoneIMS.Infrastructure.csproj", "{CB8F60E9-6330-427D-81EA-2381EC1A7D51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B6C42F2-0AE6-4135-BBCA-147C3D95AAA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B6C42F2-0AE6-4135-BBCA-147C3D95AAA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B6C42F2-0AE6-4135-BBCA-147C3D95AAA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B6C42F2-0AE6-4135-BBCA-147C3D95AAA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A138B4E-34EB-47B3-A907-C79352A0FD44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A138B4E-34EB-47B3-A907-C79352A0FD44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A138B4E-34EB-47B3-A907-C79352A0FD44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A138B4E-34EB-47B3-A907-C79352A0FD44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2E0F2DC-ECF6-4405-8C9D-C7E61D20FAD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2E0F2DC-ECF6-4405-8C9D-C7E61D20FAD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2E0F2DC-ECF6-4405-8C9D-C7E61D20FAD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2E0F2DC-ECF6-4405-8C9D-C7E61D20FAD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1E837E5-D250-4B58-8D56-7D4AC0463B93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1E837E5-D250-4B58-8D56-7D4AC0463B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1E837E5-D250-4B58-8D56-7D4AC0463B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1E837E5-D250-4B58-8D56-7D4AC0463B93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB8F60E9-6330-427D-81EA-2381EC1A7D51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB8F60E9-6330-427D-81EA-2381EC1A7D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB8F60E9-6330-427D-81EA-2381EC1A7D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB8F60E9-6330-427D-81EA-2381EC1A7D51}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

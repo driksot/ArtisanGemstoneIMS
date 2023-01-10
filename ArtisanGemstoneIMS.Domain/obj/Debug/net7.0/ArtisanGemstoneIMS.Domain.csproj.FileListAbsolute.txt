@@ -1,0 +1,12 @@
+C:\Users\Derrick\source\repos\projects\ArtisanGemstoneIMS\ArtisanGemstoneIMS.Domain\bin\Debug\net7.0\ArtisanGemstoneIMS.Domain.deps.json
+C:\Users\Derrick\source\repos\projects\ArtisanGemstoneIMS\ArtisanGemstoneIMS.Domain\bin\Debug\net7.0\ArtisanGemstoneIMS.Domain.dll
+C:\Users\Derrick\source\repos\projects\ArtisanGemstoneIMS\ArtisanGemstoneIMS.Domain\bin\Debug\net7.0\ArtisanGemstoneIMS.Domain.pdb
+C:\Users\Derrick\source\repos\projects\ArtisanGemstoneIMS\ArtisanGemstoneIMS.Domain\obj\Debug\net7.0\ArtisanGemstoneIMS.Domain.csproj.AssemblyReference.cache
+C:\Users\Derrick\source\repos\projects\ArtisanGemstoneIMS\ArtisanGemstoneIMS.Domain\obj\Debug\net7.0\ArtisanGemstoneIMS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Derrick\source\repos\projects\ArtisanGemstoneIMS\ArtisanGemstoneIMS.Domain\obj\Debug\net7.0\ArtisanGemstoneIMS.Domain.AssemblyInfoInputs.cache
+C:\Users\Derrick\source\repos\projects\ArtisanGemstoneIMS\ArtisanGemstoneIMS.Domain\obj\Debug\net7.0\ArtisanGemstoneIMS.Domain.AssemblyInfo.cs
+C:\Users\Derrick\source\repos\projects\ArtisanGemstoneIMS\ArtisanGemstoneIMS.Domain\obj\Debug\net7.0\ArtisanGemstoneIMS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Derrick\source\repos\projects\ArtisanGemstoneIMS\ArtisanGemstoneIMS.Domain\obj\Debug\net7.0\ArtisanGemstoneIMS.Domain.dll
+C:\Users\Derrick\source\repos\projects\ArtisanGemstoneIMS\ArtisanGemstoneIMS.Domain\obj\Debug\net7.0\refint\ArtisanGemstoneIMS.Domain.dll
+C:\Users\Derrick\source\repos\projects\ArtisanGemstoneIMS\ArtisanGemstoneIMS.Domain\obj\Debug\net7.0\ArtisanGemstoneIMS.Domain.pdb
+C:\Users\Derrick\source\repos\projects\ArtisanGemstoneIMS\ArtisanGemstoneIMS.Domain\obj\Debug\net7.0\ref\ArtisanGemstoneIMS.Domain.dll
