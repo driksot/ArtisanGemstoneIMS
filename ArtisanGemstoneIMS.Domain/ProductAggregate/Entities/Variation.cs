@@ -1,3 +1,4 @@
+using System;
 using ArtisanGemstoneIMS.Domain.Common.Models;
 using ArtisanGemstoneIMS.Domain.Common.ValueObjects;
 using ArtisanGemstoneIMS.Domain.ProductAggregate.ValueObjects;
